@@ -1,0 +1,41 @@
+"Region","Tipos_delito","Ordenado_por","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"
+"Atacama","Homicidios y femicidios","Grupo",6,11,9,7,4,14,6,8,12,12,18,18
+"Atacama","Violaciones y delitos sexuales","Grupo",245,205,165,171,205,236,286,306,357,403,396,385
+"Atacama","Lesiones graves o gravísimas","Grupo",193,212,178,173,135,153,157,135,153,172,170,137
+"Atacama","Lesiones menos graves","Grupo",159,170,144,172,154,212,242,190,204,267,222,217
+"Atacama","Lesiones leves","Grupo",1776,1423,1304,1253,1066,1149,1286,989,990,1332,1287,1228
+"Atacama","Amenazas","Grupo",2659,2255,1936,1932,1984,1953,2268,2177,2222,2650,2563,2331
+"Atacama","Robos con violencia o intimidación","Grupo",623,800,721,832,698,725,824,636,588,1092,1159,1041
+"Atacama","Robo por sorpresa","Grupo",455,501,467,379,314,343,300,202,162,316,244,337
+"Atacama","Crímenes y simples delitos ley de armas","Grupo",87,126,91,236,249,287,232,167,144,144,171,205
+"Atacama","Porte de arma cortante o punzante","Grupo",201,244,194,213,222,239,239,110,72,143,194,131
+"Atacama","Robos en lugares habitados y no habitados","Grupo",2522,2702,2728,2645,2823,2630,2926,2159,1416,2595,2626,2143
+"Atacama","Robos de vehículos y sus accesorios","Grupo",1186,1452,1029,1147,1044,1074,938,720,559,1166,1533,1501
+"Atacama","Otros robos con fuerza en las cosas","Grupo",88,104,116,138,134,186,209,107,77,150,298,265
+"Atacama","Hurtos","Grupo",3785,3667,2922,2953,2596,2937,3079,2076,1362,2048,1917,1697
+"Atacama","Receptación","Grupo",141,215,185,183,178,180,302,165,125,189,235,239
+"Atacama","Amenaza falta o riña","Grupo",331,277,242,222,238,205,220,176,151,176,179,126
+"Atacama","Consumo de alcohol y drogas en la vía pública","Grupo",5462,5549,4684,4452,4470,4934,4711,1913,1462,1707,2192,1406
+"Atacama","Daños","Grupo",3062,2311,2104,1978,1946,1982,2425,2188,2409,2740,2558,2498
+"Atacama","Desórdenes públicos","Grupo",1063,885,864,915,868,1128,1510,200,64,56,49,36
+"Atacama","Otras incivilidades","Grupo",800,774,552,611,612,745,934,2859,2977,1570,1225,1088
+"Coquimbo","Homicidios y femicidios","Grupo",13,12,17,13,24,19,22,27,16,56,41,36
+"Coquimbo","Violaciones y delitos sexuales","Grupo",509,413,417,504,522,618,658,700,818,1037,1025,922
+"Coquimbo","Lesiones graves o gravísimas","Grupo",398,404,309,276,255,289,346,285,270,321,310,322
+"Coquimbo","Lesiones menos graves","Grupo",348,326,348,332,343,291,392,463,388,495,506,462
+"Coquimbo","Lesiones leves","Grupo",3393,3022,2731,2830,2764,2830,2942,2297,2161,2821,3090,2993
+"Coquimbo","Amenazas","Grupo",4965,4644,4318,4331,4663,5123,5573,5631,5880,7215,7458,7019
+"Coquimbo","Robos con violencia o intimidación","Grupo",1385,1737,1708,1664,1680,1688,1857,1565,1246,2237,2178,2146
+"Coquimbo","Robo por sorpresa","Grupo",843,1006,1067,1106,1097,977,850,583,453,685,748,743
+"Coquimbo","Crímenes y simples delitos ley de armas","Grupo",387,355,281,214,838,1125,343,206,394,612,559,941
+"Coquimbo","Porte de arma cortante o punzante","Grupo",339,381,331,297,415,462,433,241,115,313,343,343
+"Coquimbo","Robos en lugares habitados y no habitados","Grupo",5905,6229,6146,6450,6546,6161,6251,4806,3780,5578,6110,6177
+"Coquimbo","Robos de vehículos y sus accesorios","Grupo",2507,2857,2995,3203,3236,2438,2688,2220,2339,2840,3283,3835
+"Coquimbo","Otros robos con fuerza en las cosas","Grupo",192,191,177,272,375,341,364,332,376,530,544,537
+"Coquimbo","Hurtos","Grupo",7398,7322,6578,6613,6876,6937,7087,4184,3697,4964,5539,5551
+"Coquimbo","Receptación","Grupo",206,226,273,304,370,390,412,335,283,447,582,498
+"Coquimbo","Amenaza falta o riña","Grupo",267,227,279,279,316,347,413,319,296,373,408,324
+"Coquimbo","Consumo de alcohol y drogas en la vía pública","Grupo",8671,9158,7589,7927,10574,15143,14436,6685,5900,6709,6144,6714
+"Coquimbo","Daños","Grupo",5321,5108,4684,4719,5009,4846,5498,4695,5354,6257,5926,6033
+"Coquimbo","Desórdenes públicos","Grupo",878,904,1052,1154,1250,1416,1765,420,150,141,97,97
+"Coquimbo","Otras incivilidades","Grupo",1720,1970,2055,2370,3523,5479,6736,9882,8027,4534,4426,4375

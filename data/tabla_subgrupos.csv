@@ -1,0 +1,75 @@
+"Region","Tipos_delito","Ordenado_por","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"
+"Atacama","Homicidios","Subgrupo",5,11,7,7,4,13,5,7,12,12,18,17
+"Atacama","Femicidios","Subgrupo",1,0,2,0,0,1,1,1,0,0,0,1
+"Atacama","Violaciones","Subgrupo",48,44,36,40,38,46,56,70,83,75,86,88
+"Atacama","Abusos sexuales","Subgrupo",178,144,120,111,150,170,201,196,231,288,253,252
+"Atacama","Acosos sexuales","Subgrupo",0,0,0,0,0,0,4,27,23,27,34,26
+"Atacama","Otros delitos sexuales","Subgrupo",19,17,9,20,17,20,25,13,20,13,23,19
+"Atacama","Robos con violencia o intimidación","Subgrupo",623,800,721,832,698,725,824,614,557,1038,1108,1008
+"Atacama","Robo violento de vehículo motorizado","Subgrupo",0,0,0,0,0,0,0,22,31,54,51,33
+"Atacama","Violencia intrafamiliar con lesiones físicas","Subgrupo",1232,1161,1098,1110,1098,1114,1208,1123,1203,1160,1118,946
+"Atacama","Violencia intrafamiliar con lesiones psicológicas","Subgrupo",1425,1124,916,1150,1018,928,1104,1014,1351,1334,1398,1320
+"Atacama","Maltrato habitual","Subgrupo",0,0,0,0,0,6,50,49,50,58,71,97
+"Atacama","Amenazas en contexto de violencia intrafamiliar","Subgrupo",0,0,0,0,1,0,0,0,0,0,0,0
+"Atacama","Violencia intrafamiliar no clasificada","Subgrupo",36,17,17,6,8,14,18,20,16,15,18,26
+"Atacama","Tráfico de sustancias","Subgrupo",100,103,100,74,105,129,128,82,88,91,84,86
+"Atacama","Microtráfico de sustancias","Subgrupo",79,112,107,113,136,263,236,198,186,230,273,200
+"Atacama","Elaboración o producción de sustancias","Subgrupo",4,10,15,14,11,26,18,17,12,6,7,3
+"Atacama","Otras infracciones a la ley de drogas","Subgrupo",58,28,43,27,30,37,35,31,71,116,133,144
+"Atacama","Disparo injustificado","Subgrupo",0,0,0,0,0,1,3,4,16,17,13,8
+"Atacama","Porte / posesión de armas o explosivos","Subgrupo",28,40,36,33,43,56,34,42,44,68,71,77
+"Atacama","Otras infracciones a la ley de armas","Subgrupo",59,86,55,203,206,230,195,121,84,59,87,120
+"Atacama","Robo en lugar habitado","Subgrupo",1405,1297,1392,1299,1331,1297,1441,1075,686,1192,1116,944
+"Atacama","Robos en lugar no habitado","Subgrupo",1117,1405,1336,1346,1492,1333,1485,1084,730,1403,1510,1199
+"Atacama","Robo de vehículo motorizado","Subgrupo",382,473,275,355,342,319,292,200,199,346,321,382
+"Atacama","Robo de objetos de o desde vehículo","Subgrupo",804,979,754,792,702,755,646,520,360,820,1212,1119
+"Atacama","Amenaza con armas (falta)","Subgrupo",70,65,52,54,54,41,64,62,63,67,67,56
+"Atacama","Riña Pública","Subgrupo",261,212,190,168,184,164,156,114,88,109,112,70
+"Atacama","Consumo de drogas en la vía pública","Subgrupo",472,355,367,352,469,485,366,62,92,105,150,96
+"Atacama","Porte de drogas","Subgrupo",246,168,135,79,92,78,29,13,5,11,23,23
+"Atacama","Otras faltas a la ley de drogas","Subgrupo",0,0,0,0,0,0,0,0,0,0,0,0
+"Atacama","Consumo de alcohol en la vía pública","Subgrupo",4744,5026,4182,4021,3909,4371,4316,1838,1365,1591,2019,1287
+"Atacama","Animales sueltos en la vía pública","Subgrupo",86,98,79,45,93,137,170,106,154,175,168,164
+"Atacama","Comercio ilegal","Subgrupo",45,50,32,33,29,87,108,31,19,13,76,55
+"Atacama","Ofensas al pudor","Subgrupo",21,11,10,24,8,13,17,1897,2096,901,622,466
+"Atacama","Otras incivilidades","Subgrupo",648,615,431,509,482,508,639,825,708,481,359,403
+"Atacama","Abigeato","Subgrupo",6,16,9,6,11,10,15,8,8,5,3,6
+"Atacama","Robo frustrado","Subgrupo",174,191,156,143,91,102,79,68,73,128,149,114
+"Atacama","Otros delitos o faltas","Subgrupo",10117,9564,9442,10506,11076,10053,11915,11896,11131,10768,10795,13060
+"Coquimbo","Homicidios","Subgrupo",12,10,17,13,22,18,21,26,15,53,39,35
+"Coquimbo","Femicidios","Subgrupo",1,2,0,0,2,1,1,1,1,3,2,1
+"Coquimbo","Violaciones","Subgrupo",89,84,87,119,92,126,127,169,165,198,195,187
+"Coquimbo","Abusos sexuales","Subgrupo",386,303,304,340,386,456,494,464,576,733,705,608
+"Coquimbo","Acosos sexuales","Subgrupo",0,0,0,0,0,0,0,44,58,83,76,83
+"Coquimbo","Otros delitos sexuales","Subgrupo",34,26,26,45,44,36,37,23,19,23,49,44
+"Coquimbo","Robos con violencia o intimidación","Subgrupo",1385,1737,1708,1664,1680,1688,1857,1539,1202,2109,2076,2006
+"Coquimbo","Robo violento de vehículo motorizado","Subgrupo",0,0,0,0,0,0,0,26,44,128,102,140
+"Coquimbo","Violencia intrafamiliar con lesiones físicas","Subgrupo",2377,2446,2164,2277,2292,2404,2606,2520,2488,2486,2497,2430
+"Coquimbo","Violencia intrafamiliar con lesiones psicológicas","Subgrupo",2524,2521,2220,2514,2511,2119,2421,3026,3601,4110,4119,3811
+"Coquimbo","Maltrato habitual","Subgrupo",0,0,0,0,0,8,40,72,91,121,107,118
+"Coquimbo","Amenazas en contexto de violencia intrafamiliar","Subgrupo",0,0,0,0,0,0,0,0,0,0,0,0
+"Coquimbo","Violencia intrafamiliar no clasificada","Subgrupo",18,13,10,10,23,15,17,21,10,15,17,27
+"Coquimbo","Tráfico de sustancias","Subgrupo",105,103,79,59,71,110,125,129,166,142,179,171
+"Coquimbo","Microtráfico de sustancias","Subgrupo",210,230,227,228,265,358,328,269,320,363,397,402
+"Coquimbo","Elaboración o producción de sustancias","Subgrupo",73,56,84,77,77,72,60,95,79,69,69,33
+"Coquimbo","Otras infracciones a la ley de drogas","Subgrupo",196,319,238,149,176,270,174,140,167,213,238,214
+"Coquimbo","Disparo injustificado","Subgrupo",0,0,0,1,1,3,4,9,68,78,88,65
+"Coquimbo","Porte / posesión de armas o explosivos","Subgrupo",169,114,86,59,83,139,127,82,110,186,177,178
+"Coquimbo","Otras infracciones a la ley de armas","Subgrupo",218,241,195,154,754,983,212,115,216,348,294,698
+"Coquimbo","Robo en lugar habitado","Subgrupo",3831,4208,4026,4000,4077,3821,3638,2636,2199,3105,3332,3406
+"Coquimbo","Robos en lugar no habitado","Subgrupo",2074,2021,2120,2450,2469,2340,2613,2170,1581,2473,2778,2771
+"Coquimbo","Robo de vehículo motorizado","Subgrupo",628,715,956,848,1263,672,653,611,573,1006,1101,1215
+"Coquimbo","Robo de objetos de o desde vehículo","Subgrupo",1879,2142,2039,2355,1973,1766,2035,1609,1766,1834,2182,2620
+"Coquimbo","Amenaza con armas (falta)","Subgrupo",150,120,137,133,157,157,161,177,146,183,203,148
+"Coquimbo","Riña Pública","Subgrupo",117,107,142,146,159,190,252,142,150,190,205,176
+"Coquimbo","Consumo de drogas en la vía pública","Subgrupo",422,540,478,492,610,1040,717,489,362,496,589,501
+"Coquimbo","Porte de drogas","Subgrupo",142,134,83,49,81,94,69,31,43,48,69,27
+"Coquimbo","Otras faltas a la ley de drogas","Subgrupo",0,0,0,0,0,0,0,0,0,0,0,0
+"Coquimbo","Consumo de alcohol en la vía pública","Subgrupo",8107,8484,7028,7386,9883,14009,13650,6165,5495,6165,5486,6186
+"Coquimbo","Animales sueltos en la vía pública","Subgrupo",147,225,257,229,265,322,342,234,277,367,380,469
+"Coquimbo","Comercio ilegal","Subgrupo",449,523,605,779,1252,2387,2291,2797,1225,1060,1473,1214
+"Coquimbo","Ofensas al pudor","Subgrupo",9,10,11,13,13,12,23,2349,3111,1270,1024,784
+"Coquimbo","Otras incivilidades","Subgrupo",1115,1212,1182,1349,1993,2758,4080,4502,3414,1837,1549,1908
+"Coquimbo","Abigeato","Subgrupo",57,90,59,77,45,47,50,45,32,32,37,38
+"Coquimbo","Robo frustrado","Subgrupo",279,399,325,365,372,414,385,457,347,688,694,673
+"Coquimbo","Otros delitos o faltas","Subgrupo",15130,16007,15383,18064,19802,21529,23993,29210,24880,24539,24301,30584

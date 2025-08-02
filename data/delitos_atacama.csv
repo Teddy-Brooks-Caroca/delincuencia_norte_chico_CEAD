@@ -1,0 +1,66 @@
+"Tipos_delito","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"
+"Delitos contra la vida o integridad de las personas",5038,4276,3736,3708,3548,3717,4245,3805,3938,4836,4656,4316
+" Homicidios y femicidios",6,11,9,7,4,14,6,8,12,12,18,18
+"  Homicidios",5,11,7,7,4,13,5,7,12,12,18,17
+"  Femicidios",1,0,2,0,0,1,1,1,0,0,0,1
+" Violaciones y delitos sexuales",245,205,165,171,205,236,286,306,357,403,396,385
+"  Violaciones",48,44,36,40,38,46,56,70,83,75,86,88
+"  Abusos sexuales",178,144,120,111,150,170,201,196,231,288,253,252
+"  Acosos sexuales",0,0,0,0,0,0,4,27,23,27,34,26
+"  Otros delitos sexuales",19,17,9,20,17,20,25,13,20,13,23,19
+" Lesiones graves o gravísimas",193,212,178,173,135,153,157,135,153,172,170,137
+" Lesiones menos graves",159,170,144,172,154,212,242,190,204,267,222,217
+" Lesiones leves",1776,1423,1304,1253,1066,1149,1286,989,990,1332,1287,1228
+" Amenazas",2659,2255,1936,1932,1984,1953,2268,2177,2222,2650,2563,2331
+"Robos violentos",1078,1301,1188,1211,1012,1068,1124,838,750,1408,1403,1378
+" Robos con violencia o intimidación",623,800,721,832,698,725,824,636,588,1092,1159,1041
+"  Robos con violencia o intimidación",623,800,721,832,698,725,824,614,557,1038,1108,1008
+"  Robo violento de vehículo motorizado",0,0,0,0,0,0,0,22,31,54,51,33
+" Robo por sorpresa",455,501,467,379,314,343,300,202,162,316,244,337
+"Violencia intrafamiliar",2693,2302,2031,2266,2125,2062,2380,2206,2620,2567,2605,2389
+"  Violencia intrafamiliar con lesiones físicas",1232,1161,1098,1110,1098,1114,1208,1123,1203,1160,1118,946
+"  Violencia intrafamiliar con lesiones psicológicas",1425,1124,916,1150,1018,928,1104,1014,1351,1334,1398,1320
+"  Maltrato habitual",0,0,0,0,0,6,50,49,50,58,71,97
+"  Amenazas en contexto de violencia intrafamiliar",0,0,0,0,1,0,0,0,0,0,0,0
+"  Violencia intrafamiliar no clasificada",36,17,17,6,8,14,18,20,16,15,18,26
+"Delitos asociados a drogas",241,253,265,228,282,455,417,328,357,443,497,433
+"  Tráfico de sustancias",100,103,100,74,105,129,128,82,88,91,84,86
+"  Microtráfico de sustancias",79,112,107,113,136,263,236,198,186,230,273,200
+"  Elaboración o producción de sustancias",4,10,15,14,11,26,18,17,12,6,7,3
+"  Otras infracciones a la ley de drogas",58,28,43,27,30,37,35,31,71,116,133,144
+"Delitos asociados a armas",288,370,285,449,471,526,471,277,216,287,365,336
+" Crímenes y simples delitos ley de armas",87,126,91,236,249,287,232,167,144,144,171,205
+"  Disparo injustificado",0,0,0,0,0,1,3,4,16,17,13,8
+"  Porte / posesión de armas o explosivos",28,40,36,33,43,56,34,42,44,68,71,77
+"  Otras infracciones a la ley de armas",59,86,55,203,206,230,195,121,84,59,87,120
+" Porte de arma cortante o punzante",201,244,194,213,222,239,239,110,72,143,194,131
+"Delitos contra la propiedad no violentos",7722,8140,6980,7066,6775,7007,7454,5227,3539,6148,6609,5845
+" Robos en lugares habitados y no habitados",2522,2702,2728,2645,2823,2630,2926,2159,1416,2595,2626,2143
+"  Robo en lugar habitado",1405,1297,1392,1299,1331,1297,1441,1075,686,1192,1116,944
+"  Robos en lugar no habitado",1117,1405,1336,1346,1492,1333,1485,1084,730,1403,1510,1199
+" Robos de vehículos y sus accesorios",1186,1452,1029,1147,1044,1074,938,720,559,1166,1533,1501
+"  Robo de vehículo motorizado",382,473,275,355,342,319,292,200,199,346,321,382
+"  Robo de objetos de o desde vehículo",804,979,754,792,702,755,646,520,360,820,1212,1119
+" Otros robos con fuerza en las cosas",88,104,116,138,134,186,209,107,77,150,298,265
+" Hurtos",3785,3667,2922,2953,2596,2937,3079,2076,1362,2048,1917,1697
+" Receptación",141,215,185,183,178,180,302,165,125,189,235,239
+"Incivilidades",10718,9796,8446,8178,8134,8994,9800,7336,7063,6249,6203,5154
+" Amenaza falta o riña",331,277,242,222,238,205,220,176,151,176,179,126
+"  Amenaza con armas (falta)",70,65,52,54,54,41,64,62,63,67,67,56
+"  Riña Pública",261,212,190,168,184,164,156,114,88,109,112,70
+" Consumo de alcohol y drogas en la vía pública",5462,5549,4684,4452,4470,4934,4711,1913,1462,1707,2192,1406
+"  Consumo de drogas en la vía pública",472,355,367,352,469,485,366,62,92,105,150,96
+"  Porte de drogas",246,168,135,79,92,78,29,13,5,11,23,23
+"  Otras faltas a la ley de drogas",0,0,0,0,0,0,0,0,0,0,0,0
+"  Consumo de alcohol en la vía pública",4744,5026,4182,4021,3909,4371,4316,1838,1365,1591,2019,1287
+" Daños",3062,2311,2104,1978,1946,1982,2425,2188,2409,2740,2558,2498
+" Desórdenes públicos",1063,885,864,915,868,1128,1510,200,64,56,49,36
+" Otras incivilidades",800,774,552,611,612,745,934,2859,2977,1570,1225,1088
+"  Animales sueltos en la vía pública",86,98,79,45,93,137,170,106,154,175,168,164
+"  Comercio ilegal",45,50,32,33,29,87,108,31,19,13,76,55
+"  Ofensas al pudor",21,11,10,24,8,13,17,1897,2096,901,622,466
+"  Otras incivilidades",648,615,431,509,482,508,639,825,708,481,359,403
+"Otros delitos o faltas",10297,9771,9607,10655,11178,10165,12009,11972,11212,10901,10947,13180
+"  Abigeato",6,16,9,6,11,10,15,8,8,5,3,6
+"  Robo frustrado",174,191,156,143,91,102,79,68,73,128,149,114
+"  Otros delitos o faltas",10117,9564,9442,10506,11076,10053,11915,11896,11131,10768,10795,13060
