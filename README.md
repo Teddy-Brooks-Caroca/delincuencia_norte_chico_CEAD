@@ -8,7 +8,7 @@
 ## 📌 Descripción
  
  Este repositorio contiene el código, datos procesados y visualizaciones que acompañan el artículo publicado en Medium:  
- [Radiografía de la delincuencia en el Norte Chico de Chile (2013–2024)](https://medium.com/@brooks.teddy/an%C3%A1lisis-integral-de-la-delincuencia-en-las-regiones-de-atacama-y-coquimbo-tendencias-percepci%C3%B3n-de4bb7f8caab)
+ [Análisis Integral de la Delincuencia en las Regiones de Atacama y Coquimbo: Tendencias, Percepción Ciudadana y Respuesta Institucional (2013–2024)](https://medium.com/@brooks.teddy/an%C3%A1lisis-integral-de-la-delincuencia-en-las-regiones-de-atacama-y-coquimbo-tendencias-percepci%C3%B3n-de4bb7f8caab)
 
  El objetivo es analizar la evolución de los delitos en las regiones de Atacama y Coquimbo durante el periodo 2013–2024, con foco en tendencias, delitos prioritarios, percepción ciudadana y políticas públicas de seguridad.
  
